@@ -16,6 +16,8 @@ This project demonstrates how to extract, clean, and consolidate Titanic dataset
    - Power BI | Data visualization and reporting
 
   ## Data Architecture Diagram
+  ![ActivityInfo-](https://github.com/user-attachments/assets/9042dd6a-c6a9-4d8a-8ae1-49e220c50162)
+
 
   ## Steps to Reproduce
 
