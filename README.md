@@ -25,6 +25,7 @@ This project demonstrates how to extract, clean, and consolidate Titanic dataset
      - Load Titanic dataset from CSV or API.
      - Perform cleaning: handle missing values, transform variables, derive new fields.
      - Consolidate the cleaned dataset.
+       
   2. Upload to ActivityInfo
      
      - ActivityInfo API Token
