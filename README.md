@@ -5,12 +5,14 @@
 This project demonstrates how to extract, clean, and consolidate Titanic dataset data using R, integrate the processed data into ActivityInfo (a data management platform), and visualize insights using Power BI.
 
 ## Objective:
+
 - Extract Titanic dataset from an external source.
 - Clean and transform the data in R.
 - Upload the consolidated data to ActivityInfo for centralized data management.
 - Create interactive dashboards and visualizations using Power BI.
 
   ## Tools & Technologies Used
+  
    - Data extraction, cleaning, transformation | Data extraction, cleaning, transformation
    - ActivityInfo API | Uploading data to ActivityInfo database
    - Power BI | Data visualization and reporting
